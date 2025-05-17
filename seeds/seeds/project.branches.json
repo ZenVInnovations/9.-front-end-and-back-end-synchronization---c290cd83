@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "668e07567e97b5efde2b9583"
+  },
+  "name": "Civil Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:00:22.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:00:22.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07657e97b5efde2b9589"
+  },
+  "name": "Mechanical Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:00:37.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:00:37.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07707e97b5efde2b958d"
+  },
+  "name": "Electrical and Electronics Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:00:48.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:00:48.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e077e7e97b5efde2b9591"
+  },
+  "name": "Electronics and Communication Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:01:02.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:01:02.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e078b7e97b5efde2b9595"
+  },
+  "name": "Industrial Engineering and Management",
+  "createdAt": {
+    "$date": "2024-07-10T04:01:15.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:01:15.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e079a7e97b5efde2b9599"
+  },
+  "name": "Electronics and Instrumentation Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:01:30.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:01:30.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07a97e97b5efde2b959d"
+  },
+  "name": "Computer Science and Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:01:45.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:01:45.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07b97e97b5efde2b95a1"
+  },
+  "name": "Electronics and Telecommunication Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:02:01.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:02:01.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07c57e97b5efde2b95a5"
+  },
+  "name": "Information Science and Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:02:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:02:13.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07d57e97b5efde2b95a9"
+  },
+  "name": "Medical Electronics Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:02:29.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:02:29.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e07dc7e97b5efde2b95ad"
+  },
+  "name": "Aeronautical Engineering",
+  "createdAt": {
+    "$date": "2024-07-10T04:02:36.125Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:02:36.125Z"
+  },
+  "__v": 0
+}]

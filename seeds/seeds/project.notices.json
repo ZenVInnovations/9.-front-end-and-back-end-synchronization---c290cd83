@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "668e0b967e97b5efde2b961d"
+  },
+  "title": "Commencement of 7th Semester",
+  "description": "Please find the attached pdf file containing the calendar of events for the 7th semester",
+  "type": "both",
+  "link": "https://drait.edu.in",
+  "createdAt": {
+    "$date": "2024-07-10T04:18:30.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:18:30.145Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "668e0b387e97b5efde2b960f"
+  },
+  "enrollmentNo": 1,
+  "firstName": "Divya",
+  "middleName": "S",
+  "lastName": "Dr. AIT",
+  "email": "divya@drait.edu.in",
+  "phoneNumber": 1234567890,
+  "semester": 6,
+  "branch": "Computer Science and Engineering",
+  "gender": "Female",
+  "profile": "Student_Profile_1_Semester_Computer Science and Engineering.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:16:56.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:16:56.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0b557e97b5efde2b9615"
+  },
+  "enrollmentNo": 2,
+  "firstName": "Nithin",
+  "middleName": "S",
+  "lastName": "Dr. AIT",
+  "email": "nithin@drait.edu.in",
+  "phoneNumber": 1234567891,
+  "semester": 6,
+  "branch": "Computer Science and Engineering",
+  "gender": "Male",
+  "profile": "Student_Profile_2_Semester_Computer Science and Engineering.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:17:25.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:17:25.907Z"
+  },
+  "__v": 0
+}]

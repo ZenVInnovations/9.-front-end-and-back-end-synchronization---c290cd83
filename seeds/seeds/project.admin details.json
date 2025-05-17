@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "668e05f775c4b05a1b310dd8"
+  },
+  "employeeId": 560056,
+  "firstName": "Admin",
+  "middleName": "At",
+  "lastName": "Dr. AIT",
+  "email": "1da21cs052.cs@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "8050036469"
+  },
+  "gender": "Male",
+  "profile": "pfp.png",
+  "createdAt": {
+    "$date": "2024-07-10T03:54:31.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T03:54:31.599Z"
+  },
+  "__v": 0
+}]

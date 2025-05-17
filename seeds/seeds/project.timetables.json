@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "668e0f3d7e97b5efde2b9647"
+  },
+  "link": "Timetable_6_Semester_Computer Science and Engineering.png",
+  "branch": "Computer Science and Engineering",
+  "semester": 6,
+  "createdAt": {
+    "$date": "2024-07-10T04:34:05.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:34:05.084Z"
+  },
+  "__v": 0
+}]

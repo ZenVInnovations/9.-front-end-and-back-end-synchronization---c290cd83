@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "668e08807e97b5efde2b95b4"
+  },
+  "name": "Software Engineering and Project Management",
+  "code": 1,
+  "createdAt": {
+    "$date": "2024-07-10T04:05:20.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:05:20.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e088a7e97b5efde2b95b8"
+  },
+  "name": "Computer Graphics and Image Processing",
+  "code": 2,
+  "createdAt": {
+    "$date": "2024-07-10T04:05:30.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:05:30.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e08947e97b5efde2b95bc"
+  },
+  "name": "Artificial Intelligence and Machine Learning",
+  "code": 3,
+  "createdAt": {
+    "$date": "2024-07-10T04:05:40.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:05:40.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e08a27e97b5efde2b95c0"
+  },
+  "name": "Data Visualization",
+  "code": 4,
+  "createdAt": {
+    "$date": "2024-07-10T04:05:54.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:05:54.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e08aa7e97b5efde2b95c4"
+  },
+  "name": "Renewable Energy Sources",
+  "code": 5,
+  "createdAt": {
+    "$date": "2024-07-10T04:06:02.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:06:02.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e08bb7e97b5efde2b95c8"
+  },
+  "name": "Aptitude and Verbal Ability",
+  "code": 6,
+  "createdAt": {
+    "$date": "2024-07-10T04:06:19.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:06:19.196Z"
+  },
+  "__v": 0
+}]

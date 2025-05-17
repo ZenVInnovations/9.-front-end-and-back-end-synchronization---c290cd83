@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "668e09ab7e97b5efde2b95d0"
+  },
+  "employeeId": 1,
+  "firstName": "Poornima",
+  "middleName": "A",
+  "lastName": "Dr. AIT",
+  "email": "poornima@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543210"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "female",
+  "experience": 2,
+  "post": "Assistant Professor",
+  "profile": "Faculty_Profile_1.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:10:19.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:10:19.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e09e57e97b5efde2b95d8"
+  },
+  "employeeId": 2,
+  "firstName": "Madhu",
+  "middleName": "B",
+  "lastName": "Dr. AIT",
+  "email": "madhub@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543211"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "female",
+  "experience": 5,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_2.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:11:17.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:11:17.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0a0c7e97b5efde2b95de"
+  },
+  "employeeId": 3,
+  "firstName": "Vinod",
+  "middleName": "Kumar",
+  "lastName": "Dr. AIT",
+  "email": "vinodk@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543212"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "male",
+  "experience": 4,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_3.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:11:56.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:11:56.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0a417e97b5efde2b95e4"
+  },
+  "employeeId": 4,
+  "firstName": "Veena",
+  "middleName": "A",
+  "lastName": "Dr. AIT",
+  "email": "veena@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543213"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "female",
+  "experience": 3,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_4.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:12:49.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:12:49.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0a677e97b5efde2b95ea"
+  },
+  "employeeId": 5,
+  "firstName": "Shankarlingappa",
+  "middleName": "C",
+  "lastName": "Dr. AIT",
+  "email": "shankarlingappa@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543214"
+  },
+  "department": "Electrical and Electronics Engineering",
+  "gender": "male",
+  "experience": 4,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_5.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:13:27.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:13:27.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0ab87e97b5efde2b95f5"
+  },
+  "employeeId": 7,
+  "firstName": "Nandini",
+  "middleName": "N",
+  "lastName": "Dr. AIT",
+  "email": "nandini@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543215"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "female",
+  "experience": 8,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_7.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:14:48.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:14:48.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e0b077e97b5efde2b9608"
+  },
+  "employeeId": 6,
+  "firstName": "Srinivasa",
+  "middleName": "A H",
+  "lastName": "Dr. AIT",
+  "email": "srinivasa@drait.edu.in",
+  "phoneNumber": {
+    "$numberLong": "9876543219"
+  },
+  "department": "Computer Science and Engineering",
+  "gender": "male",
+  "experience": 5,
+  "post": "Associate Professor",
+  "profile": "Faculty_Profile_6.png",
+  "createdAt": {
+    "$date": "2024-07-10T04:16:07.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:16:07.697Z"
+  },
+  "__v": 0
+}]

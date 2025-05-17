@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "668e0f697e97b5efde2b9652"
+  },
+  "enrollmentNo": 1,
+  "internal": {
+    "Software Engineering and Project Management": "24"
+  },
+  "createdAt": {
+    "$date": "2024-07-10T04:34:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:35:17.534Z"
+  },
+  "__v": 0,
+  "external": {
+    "Software Engineering and Project Management": "91"
+  }
+},
+{
+  "_id": {
+    "$oid": "668e0f697e97b5efde2b9655"
+  },
+  "enrollmentNo": 2,
+  "internal": {
+    "Software Engineering and Project Management": "22"
+  },
+  "createdAt": {
+    "$date": "2024-07-10T04:34:49.125Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T04:35:17.536Z"
+  },
+  "__v": 0,
+  "external": {
+    "Software Engineering and Project Management": "93"
+  }
+}]
